@@ -1,2 +1,18 @@
-# akshaypalutla-projects
-This repository contains all my projects.
+akshaypalutla-projects
+
+This repository provides an overview of all my projects with brief descriptions.
+For detailed documentation, source code, and setup instructions, please refer to the individual repositories named after each project.
+
+Projects
+	•	Audio-to-Text Extraction (Mar 2025 – May 2025)
+Developed a Feed Forward Neural Network model for audio-to-text extraction. Experimented with different hyperparameters to evaluate performance and efficiency.
+	•	Oldie2GenZ – A User-Friendly Website for Senior Citizens (Jan 2025 – May 2025)
+Designed a website that provides senior citizens with a one-stop solution for accessing government services, learning digital platforms, setting reminders for medicines and appointments, and receiving important notifications.
+	•	Chest X-Ray Image Classification for COVID-19 Detection (Nov 2024 – Dec 2024)
+Built a Convolutional Neural Network (CNN) to classify chest X-ray images into COVID-19, pneumonia, and normal lung conditions.
+	•	MediTrack – A GUI-Based Healthcare Management System (Nov 2024 – Dec 2024)
+Developed a healthcare management system in Java using Swing and AWT for efficient patient and record management.
+	•	Disease Diagnosis Prediction System (Jun 2024 – Jul 2024)
+Created a Logistic Regression model to predict the presence of disease based on patient data.
+	•	Real Estate Price Prediction System (Apr 2024 – May 2024)
+Implemented a Random Forest model to predict real estate prices in Gurgaon.
